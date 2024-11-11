@@ -1,6 +1,6 @@
 ## Calculate weighted average depth of a scuba dive that has multiple descents
 
-![scubave](https://github.com/carolynvlasveld/resources/blob/main/ewensponds.jpg)
+![scubave](https://github.com/carolynvlasveld/resources/blob/main/scubaave.jpg)
 
 Sometimes a dive computer records average depths of multiple ‘subdives’ from a dive event involving multiple ascents to the surface (e.g., if you dive through [Ewens Ponds](https://www.parks.sa.gov.au/parks/ewens-ponds-conservation-park) in the image above, you have to pass through some very shallow channels and avoid disturbing the fragile vegetation underneath).
 
