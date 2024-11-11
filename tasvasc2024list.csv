@@ -1,4 +1,4 @@
-Major clade,APGIV family,Full species name and authority,Yes ntroduced in Tasmania
+Major clade,APGIV family,Full species name and authority,Introduced in Tasmania
 Basal angiosperms,Hydatellaceae,Trithuria filamentosa Rodway,
 Basal angiosperms,Hydatellaceae,Trithuria submersa Hook.f.,
 Eudicots,Acanthaceae,Acanthus mollis L.,Yes 
@@ -89,7 +89,7 @@ Eudicots,Apocynaceae,Alyxia buxifolia R.Br.,
 Eudicots,Apocynaceae,Gomphocarpus fruticosus (L.) W.T.Aiton subsp. fruticosus,Yes 
 Eudicots,Apocynaceae,Parsonsia brownii (Britten) Pichon,
 Eudicots,Apocynaceae,Vinca major L.,Yes 
-Eudicots,Aquifoliaceae,Yes lex aquifolium L.,Yes 
+Eudicots,Aquifoliaceae,Ilex aquifolium L.,Yes 
 Eudicots,Araliaceae,Hedera helix L.,Yes 
 Eudicots,Araliaceae,Hydrocotyle callicarpa Bunge,
 Eudicots,Araliaceae,Hydrocotyle capillaris F.Muell. ex Klatt,
@@ -231,7 +231,7 @@ Eudicots,Asteraceae,Helminthotheca echioides (L.) Holub,Yes
 Eudicots,Asteraceae,Hyalosperma demissum (A.Gray) Paul G.Wilson,
 Eudicots,Asteraceae,Hypochaeris glabra L.,Yes 
 Eudicots,Asteraceae,Hypochaeris radicata L.,Yes 
-Eudicots,Asteraceae,Yes soetopsis graminifolia Turcz.,
+Eudicots,Asteraceae,Isoetopsis graminifolia Turcz.,
 Eudicots,Asteraceae,Lactuca saligna L.,Yes 
 Eudicots,Asteraceae,Lactuca serriola L. f. serriola,Yes 
 Eudicots,Asteraceae,Lagenophora gunniana Steetz,
@@ -416,7 +416,7 @@ Eudicots,Asteraceae,Xerochrysum palustre (Flann) R.J.Bayer,
 Eudicots,Asteraceae,Xerochrysum papillosum (Labill.) R.J.Bayer,
 Eudicots,Asteraceae,Xerochrysum subundulatum (Sch.Bip.) R.J.Bayer,
 Eudicots,Asteraceae,Xerochrysum viscosum (Sieber ex DC.) R.J.Bayer,Yes 
-Eudicots,Balsaminaceae,Yes mpatiens balfourii Hook.f.,Yes 
+Eudicots,Balsaminaceae,Impatiens balfourii Hook.f.,Yes 
 Eudicots,Berberidaceae,Berberis darwinii Hook.,Yes 
 Eudicots,Betulaceae,Betula pendula Roth,Yes 
 Eudicots,Bignoniaceae,Pandorea pandorana (Andrews) Steenis,
@@ -503,7 +503,7 @@ Eudicots,Brassicaceae,Sisymbrium officinale (L.) Scop.,Yes
 Eudicots,Brassicaceae,Sisymbrium orientale L.,Yes 
 Eudicots,Brassicaceae,Stenopetalum lineare R.Br. ex DC.,
 Eudicots,Brassicaceae,Teesdalia nudicaulis (L.) W.T.Aiton,Yes 
-Eudicots,Campanulaceae,Yes sotoma fluviatilis subsp. australis McComb,
+Eudicots,Campanulaceae,Isotoma fluviatilis subsp. australis McComb,
 Eudicots,Campanulaceae,Lobelia anceps L.f.,
 Eudicots,Campanulaceae,Lobelia browniana Schult.,
 Eudicots,Campanulaceae,Lobelia dentata Cav.,
@@ -613,7 +613,7 @@ Eudicots,Convolvulaceae,Convolvulus arvensis L.,Yes
 Eudicots,Convolvulaceae,Cuscuta epithymum (L.) L.,Yes 
 Eudicots,Convolvulaceae,Cuscuta tasmanica Engelm.,
 Eudicots,Convolvulaceae,Dichondra repens J.R.Forst. & G.Forst.,
-Eudicots,Convolvulaceae,Yes pomoea indica (Burm.) Merr.,Yes 
+Eudicots,Convolvulaceae,Ipomoea indica (Burm.) Merr.,Yes 
 Eudicots,Convolvulaceae,Wilsonia backhousei Hook.f.,
 Eudicots,Convolvulaceae,Wilsonia humilis R.Br.,
 Eudicots,Convolvulaceae,Wilsonia rotundifolia Hook.,
@@ -897,7 +897,7 @@ Eudicots,Fabaceae,Hovea heterophylla A.Cunn. ex Hook.f.,
 Eudicots,Fabaceae,Hovea magnibractea I.Thomps.,
 Eudicots,Fabaceae,Hovea montana (Hook.f.) J.H.Ross,
 Eudicots,Fabaceae,Hovea tasmanica I.Thomps. & J.H.Ross,
-Eudicots,Fabaceae,Yes ndigofera australis Willd. subsp. australis,
+Eudicots,Fabaceae,Indigofera australis Willd. subsp. australis,
 Eudicots,Fabaceae,Kennedia nigricans Lindl.,Yes 
 Eudicots,Fabaceae,Kennedia prostrata R.Br.,
 Eudicots,Fabaceae,Kennedia rubicunda (Schneev.) Vent.,Yes 
@@ -1441,7 +1441,7 @@ Eudicots,Proteaceae,Hakea nodosa R.Br.,
 Eudicots,Proteaceae,Hakea salicifolia (Vent.) B.L.Burtt subsp. salicifolia,Yes 
 Eudicots,Proteaceae,Hakea teretifolia subsp. hirsuta (Endl.) R.M.Barker,
 Eudicots,Proteaceae,Hakea ulicina R.Br.,
-Eudicots,Proteaceae,Yes sopogon ceratophyllus R.Br.,
+Eudicots,Proteaceae,Isopogon ceratophyllus R.Br.,
 Eudicots,Proteaceae,Lomatia fraseri R.Br.,Yes 
 Eudicots,Proteaceae,Lomatia polymorpha R.Br.,
 Eudicots,Proteaceae,Lomatia tasmanica W.M.Curtis,
@@ -1911,27 +1911,27 @@ Monocots,Cyperaceae,Gahnia rodwayi F.Muell. ex Rodway,
 Monocots,Cyperaceae,Gahnia sieberiana Kunth,
 Monocots,Cyperaceae,Gahnia trifida Labill.,
 Monocots,Cyperaceae,Gymnoschoenus sphaerocephalus (R.Br.) Hook.f.,
-Monocots,Cyperaceae,Yes solepis alpina Hook.f.,
-Monocots,Cyperaceae,Yes solepis aucklandica Hook.f.,
-Monocots,Cyperaceae,Yes solepis cernua (Vahl) Roem. & Schult.,
-Monocots,Cyperaceae,Yes solepis crassiuscula Hook.f.,
-Monocots,Cyperaceae,Yes solepis fluitans (L.) R.Br.,
-Monocots,Cyperaceae,Yes solepis habra (Edgar) Soják,
-Monocots,Cyperaceae,Yes solepis hookeriana Boeckeler,
-Monocots,Cyperaceae,Yes solepis hystrix (Thunb.) Nees,Yes 
-Monocots,Cyperaceae,Yes solepis inundata R.Br.,
-Monocots,Cyperaceae,Yes solepis levynsiana Muasya & D.A.Simpson,?i
-Monocots,Cyperaceae,Yes solepis limbata W.M.Curtis,
-Monocots,Cyperaceae,Yes solepis marginata (Thunb.) A.Dietr.,
-Monocots,Cyperaceae,Yes solepis montivaga (S.T.Blake) K.L.Wilson,
-Monocots,Cyperaceae,Yes solepis platycarpa (S.T.Blake) Soják,
-Monocots,Cyperaceae,Yes solepis producta (C.B.Clarke) K.L.Wilson,
-Monocots,Cyperaceae,Yes solepis prolifera (Rottb.) R.Br.,Yes 
-Monocots,Cyperaceae,Yes solepis setacea (L.) R.Br.,Yes 
-Monocots,Cyperaceae,Yes solepis stellata (C.B.Clarke) K.L.Wilson,
-Monocots,Cyperaceae,Yes solepis subtilissima Boeckeler,
-Monocots,Cyperaceae,Yes solepis tasmanica (S.T.Blake) K.L.Wilson,
-Monocots,Cyperaceae,Yes solepis wakefieldiana (S.T.Blake) K.L.Wilson,
+Monocots,Cyperaceae,Isolepis alpina Hook.f.,
+Monocots,Cyperaceae,Isolepis aucklandica Hook.f.,
+Monocots,Cyperaceae,Isolepis cernua (Vahl) Roem. & Schult.,
+Monocots,Cyperaceae,Isolepis crassiuscula Hook.f.,
+Monocots,Cyperaceae,Isolepis fluitans (L.) R.Br.,
+Monocots,Cyperaceae,Isolepis habra (Edgar) Soják,
+Monocots,Cyperaceae,Isolepis hookeriana Boeckeler,
+Monocots,Cyperaceae,Isolepis hystrix (Thunb.) Nees,Yes 
+Monocots,Cyperaceae,Isolepis inundata R.Br.,
+Monocots,Cyperaceae,Isolepis levynsiana Muasya & D.A.Simpson,?i
+Monocots,Cyperaceae,Isolepis limbata W.M.Curtis,
+Monocots,Cyperaceae,Isolepis marginata (Thunb.) A.Dietr.,
+Monocots,Cyperaceae,Isolepis montivaga (S.T.Blake) K.L.Wilson,
+Monocots,Cyperaceae,Isolepis platycarpa (S.T.Blake) Soják,
+Monocots,Cyperaceae,Isolepis producta (C.B.Clarke) K.L.Wilson,
+Monocots,Cyperaceae,Isolepis prolifera (Rottb.) R.Br.,Yes 
+Monocots,Cyperaceae,Isolepis setacea (L.) R.Br.,Yes 
+Monocots,Cyperaceae,Isolepis stellata (C.B.Clarke) K.L.Wilson,
+Monocots,Cyperaceae,Isolepis subtilissima Boeckeler,
+Monocots,Cyperaceae,Isolepis tasmanica (S.T.Blake) K.L.Wilson,
+Monocots,Cyperaceae,Isolepis wakefieldiana (S.T.Blake) K.L.Wilson,
 Monocots,Cyperaceae,Lepidosperma concavum R.Br.,
 Monocots,Cyperaceae,Lepidosperma curtisiae K.L.Wilson & D.I.Morris,
 Monocots,Cyperaceae,Lepidosperma elatius Labill.,
@@ -1998,36 +1998,36 @@ Monocots,Hypoxidaceae,Hypoxis hygrometrica var. villosisepala R.J.F.Hend.,
 Monocots,Hypoxidaceae,Pauridia glabella (R.Br.) Snijman & Kocyan var. glabella,
 Monocots,Hypoxidaceae,Pauridia vaginata (Schltdl.) Snijman & Kocyan var. vaginata,
 Monocots,Hypoxidaceae,Pauridia vaginata var. brevistigmata (R.J.F.Hend.) Snijman & Kocyan,
-Monocots,Yes ridaceae,Chasmanthe floribunda (Salisb.) N.E.Br.,Yes 
-Monocots,Yes ridaceae,Crocosmia × crocosmiiflora (Lemoine ex E.Morren) N.E.Br.,Yes 
-Monocots,Yes ridaceae,Diplarrena latifolia Benth.,
-Monocots,Yes ridaceae,Diplarrena moraea Labill.,
-Monocots,Yes ridaceae,Freesia  ,Yes 
-Monocots,Yes ridaceae,Gladiolus × colvillii Sweet,Yes 
-Monocots,Yes ridaceae,Gladiolus communis subsp. byzantinus (Mill.) A.P.Ham.,Yes 
-Monocots,Yes ridaceae,Gladiolus tristis L.,Yes 
-Monocots,Yes ridaceae,Gladiolus undulatus L.,Yes 
-Monocots,Yes ridaceae,Hesperantha coccinea (Backh. & Harv.) Goldblatt & J.C.Manning,Yes 
-Monocots,Yes ridaceae,Yes ris foetidissima L.,Yes 
-Monocots,Yes ridaceae,Yes ris germanica L.,Yes 
-Monocots,Yes ridaceae,Yes ris pseudacorus L.,Yes 
-Monocots,Yes ridaceae,Yes sophysis tasmanica (Hook.) T.Moore,
-Monocots,Yes ridaceae,Yes xia flexuosa L.,Yes 
-Monocots,Yes ridaceae,Yes xia maculata L.,Yes 
-Monocots,Yes ridaceae,Yes xia polystachya L.,Yes 
-Monocots,Yes ridaceae,Libertia pulchella (R.Br.) Spreng. var. pulchella,
-Monocots,Yes ridaceae,Libertia pulchella var. pygmaea D.I.Morris,
-Monocots,Yes ridaceae,Moraea flaccida (Sweet) Steud.,Yes 
-Monocots,Yes ridaceae,Patersonia fragilis (Labill.) Asch. & Graebn.,
-Monocots,Yes ridaceae,Patersonia occidentalis R.Br. var. occidentalis,
-Monocots,Yes ridaceae,Romulea rosea var. australis (Ewart) M.P.de Vos,Yes 
-Monocots,Yes ridaceae,Sisyrinchium micranthum Cav.,Yes 
-Monocots,Yes ridaceae,Sisyrinchium striatum Sm.,Yes 
-Monocots,Yes ridaceae,Sparaxis bulbifera (L.) Ker Gawl.,Yes 
-Monocots,Yes ridaceae,Tritonia gladiolaris (Lam.) Goldblatt & J.C.Manning,Yes 
-Monocots,Yes ridaceae,Watsonia meriana (L.) Mill. var. meriana,Yes 
-Monocots,Yes ridaceae,Watsonia meriana var. bulbillifera (J.W.Mathews & L.Bolus) D.A.Cooke,Yes 
-Monocots,Yes ridaceae,Watsonia versfeldii J.W.Mathews & L.Bolus,Yes 
+Monocots,Iridaceae,Chasmanthe floribunda (Salisb.) N.E.Br.,Yes 
+Monocots,Iridaceae,Crocosmia × crocosmiiflora (Lemoine ex E.Morren) N.E.Br.,Yes 
+Monocots,Iridaceae,Diplarrena latifolia Benth.,
+Monocots,Iridaceae,Diplarrena moraea Labill.,
+Monocots,Iridaceae,Freesia  ,Yes 
+Monocots,Iridaceae,Gladiolus × colvillii Sweet,Yes 
+Monocots,Iridaceae,Gladiolus communis subsp. byzantinus (Mill.) A.P.Ham.,Yes 
+Monocots,Iridaceae,Gladiolus tristis L.,Yes 
+Monocots,Iridaceae,Gladiolus undulatus L.,Yes 
+Monocots,Iridaceae,Hesperantha coccinea (Backh. & Harv.) Goldblatt & J.C.Manning,Yes 
+Monocots,Iridaceae,Iris foetidissima L.,Yes 
+Monocots,Iridaceae,Iris germanica L.,Yes 
+Monocots,Iridaceae,Iris pseudacorus L.,Yes 
+Monocots,Iridaceae,Isophysis tasmanica (Hook.) T.Moore,
+Monocots,Iridaceae,Ixia flexuosa L.,Yes 
+Monocots,Iridaceae,Ixia maculata L.,Yes 
+Monocots,Iridaceae,Ixia polystachya L.,Yes 
+Monocots,Iridaceae,Libertia pulchella (R.Br.) Spreng. var. pulchella,
+Monocots,Iridaceae,Libertia pulchella var. pygmaea D.I.Morris,
+Monocots,Iridaceae,Moraea flaccida (Sweet) Steud.,Yes 
+Monocots,Iridaceae,Patersonia fragilis (Labill.) Asch. & Graebn.,
+Monocots,Iridaceae,Patersonia occidentalis R.Br. var. occidentalis,
+Monocots,Iridaceae,Romulea rosea var. australis (Ewart) M.P.de Vos,Yes 
+Monocots,Iridaceae,Sisyrinchium micranthum Cav.,Yes 
+Monocots,Iridaceae,Sisyrinchium striatum Sm.,Yes 
+Monocots,Iridaceae,Sparaxis bulbifera (L.) Ker Gawl.,Yes 
+Monocots,Iridaceae,Tritonia gladiolaris (Lam.) Goldblatt & J.C.Manning,Yes 
+Monocots,Iridaceae,Watsonia meriana (L.) Mill. var. meriana,Yes 
+Monocots,Iridaceae,Watsonia meriana var. bulbillifera (J.W.Mathews & L.Bolus) D.A.Cooke,Yes 
+Monocots,Iridaceae,Watsonia versfeldii J.W.Mathews & L.Bolus,Yes 
 Monocots,Juncaceae,Juncus acuminatus Michx.,Yes 
 Monocots,Juncaceae,Juncus acutiflorus Ehrh. ex Hoffm.,Yes 
 Monocots,Juncaceae,Juncus acutus L.,Yes 
@@ -2446,8 +2446,8 @@ Monocots,Poaceae,Hordeum leporinum Link,Yes
 Monocots,Poaceae,Hordeum marinum Huds.,Yes 
 Monocots,Poaceae,Hordeum murinum L.,Yes 
 Monocots,Poaceae,Hordeum vulgare L.,Yes 
-Monocots,Poaceae,Yes mperata cylindrica (L.) Raeusch.,
-Monocots,Poaceae,Yes sachne globosa (Thunb. ex Murray) Kuntze,
+Monocots,Poaceae,Imperata cylindrica (L.) Raeusch.,
+Monocots,Poaceae,Isachne globosa (Thunb. ex Murray) Kuntze,
 Monocots,Poaceae,Lachnagrostis aemula (R.Br.) Trin.,
 Monocots,Poaceae,Lachnagrostis billardierei (R.Br.) Trin. subsp. billardierei,
 Monocots,Poaceae,Lachnagrostis billardierei subsp. tenuiseta (D.I.Morris) S.W.L.Jacobs,
@@ -2698,12 +2698,12 @@ Pteridophytes,Hymenophyllaceae,Hymenophyllum marginatum Hook. & Grev.,
 Pteridophytes,Hymenophyllaceae,Hymenophyllum peltatum (Poir.) Desv.,
 Pteridophytes,Hymenophyllaceae,Hymenophyllum rarum R.Br.,
 Pteridophytes,Hymenophyllaceae,Polyphlebium venosum (R.Br.) Copel.,
-Pteridophytes,Yes soetaceae,Yes soetes drummondii A.Braun subsp. drummondii,
-Pteridophytes,Yes soetaceae,Yes soetes elatior F.Muell. ex A.Braun,
-Pteridophytes,Yes soetaceae,Yes soetes gunnii A.Braun,
-Pteridophytes,Yes soetaceae,Yes soetes humilior F.Muell. ex A.Braun,
-Pteridophytes,Yes soetaceae,"Isoetes jarmaniae D.F.Brunt, G.Kantvilas & M.Garrett",
-Pteridophytes,Yes soetaceae,Yes soetes muelleri A.Braun,
+Pteridophytes,Isoetaceae,Isoetes drummondii A.Braun subsp. drummondii,
+Pteridophytes,Isoetaceae,Isoetes elatior F.Muell. ex A.Braun,
+Pteridophytes,Isoetaceae,Isoetes gunnii A.Braun,
+Pteridophytes,Isoetaceae,Isoetes humilior F.Muell. ex A.Braun,
+Pteridophytes,Isoetaceae,"Isoetes jarmaniae D.F.Brunt, G.Kantvilas & M.Garrett",
+Pteridophytes,Isoetaceae,Isoetes muelleri A.Braun,
 Pteridophytes,Lindsaeaceae,Lindsaea linearis Sw.,
 Pteridophytes,Lindsaeaceae,Lindsaea trichomanoides Dryand.,
 Pteridophytes,Lycopodiaceae,Huperzia australiana (Herter) Holub,
