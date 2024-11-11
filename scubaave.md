@@ -1,4 +1,4 @@
-## Calculate weighted average depth of a scuba dive with multiple descents
+## Calculate weighted average depth of a scuba dive that has multiple descents
 
 ![scubave](https://github.com/carolynvlasveld/resources/blob/main/ewensponds.jpg)
 
