@@ -1,5 +1,5 @@
 ## Checklist for fieldwork and hiking
-![ecologyexp](https://github.com/carolynvlasveld/notesandresources/blob/main/ecologyexp.jpg)
+![packlist](https://github.com/carolynvlasveld/notesandresources/blob/main/packlist.jpg)
 
 Add or remove items depending on the specific trip.
 
