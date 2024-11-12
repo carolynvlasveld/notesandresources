@@ -30,8 +30,23 @@ All recipes assume you already have olive oil, salt, and pepper.
  - 40g cumin
  - 40g paprika
 
+<br>
 
+---
 
+<br>
+
+🫐 **Fake sugar muffins**
+
+ - 250g frozen small berries
+ - 250g white flour
+ - 1 beaten egg
+ - 2 tsp baking powder
+ - 60g softened butter
+ - 250 mL milk
+ - 14g stevia powder
+
+Combine and bake for 20-30 mins at 200 degrees Celsius.
 
 <br><br>
 
