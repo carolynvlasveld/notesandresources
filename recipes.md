@@ -43,7 +43,7 @@ All recipes assume basic cooking knowledge and that you already have olive oil, 
  - 1 beaten egg
  - 2 tsp baking powder
  - 60g softened butter
- - 250 mL milk
+ - 250mL milk
  - 14g stevia powder
 
 Combine and bake for 20-30 mins at 200 degrees Celsius.
