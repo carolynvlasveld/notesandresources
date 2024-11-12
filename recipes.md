@@ -1,6 +1,6 @@
 ## Favourite recipes, without the fluff
 \
-All recipes assume you already have olive oil, salt, and pepper.
+All recipes assume basic cooking knowledge and that you already have olive oil, salt, and pepper.
 
 ---
 <br>
