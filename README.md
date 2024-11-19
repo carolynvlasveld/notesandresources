@@ -1,4 +1,6 @@
-### Notes and resources
+### Notes and resources 📔🥾💻🍂🔢
+
+---
 
 Ecology skills:
 - [Getting experience as a budding botanist/ecologist](https://github.com/carolynvlasveld/notesandresources/blob/main/ecologyexp.md)
