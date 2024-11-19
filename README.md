@@ -1,4 +1,4 @@
-### Notes and resources 📔🥾💻🍂🔢
+### Notes and resources 📔🍂
 
 ---
 
