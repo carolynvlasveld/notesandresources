@@ -1,5 +1,4 @@
-## Checklist for fieldwork and hiking
-![packlist](https://github.com/carolynvlasveld/notesandresources/blob/main/packlist.jpg)
+## Checklist for fieldwork and hiking 🥾
 
 Add or remove items depending on the specific trip.
 
