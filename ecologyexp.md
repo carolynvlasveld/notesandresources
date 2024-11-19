@@ -1,6 +1,5 @@
-## Getting experience as a budding botanist/ecologist
+## Getting experience as a budding botanist/ecologist 🌲
 
-![ecologyexp](https://github.com/carolynvlasveld/resources/blob/main/ecologyexp.jpg)
 
 Here’s a list of ways you can progress your skills as a botanist and/or ecologist outside of formal studies, while getting some exercise and meeting lovely people at the same time. Items are skewed towards south-eastern Australia but can be applied elsewhere. I’ll add more items as I think of them. 🌻
 
