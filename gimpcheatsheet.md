@@ -1,5 +1,4 @@
-## GIMP cheatsheet
-![ecologyexp](https://github.com/carolynvlasveld/resources/blob/main/gimp.jpg)
+## GIMP cheatsheet 🖌️
 
 [GIMP](https://en.wikipedia.org/wiki/GIMP) is a free and open-source graphics editor. Here are some tips I want to remember.
 
