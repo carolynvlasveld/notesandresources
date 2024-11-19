@@ -1,5 +1,4 @@
-## LibreOffice Calc cheatsheet
-![libreofficecalc](https://github.com/carolynvlasveld/notesandresources/blob/main/libreofficecalc.jpg)
+## LibreOffice Calc cheatsheet 🔢
 
 [LibreOffice Calc](https://en.wikipedia.org/wiki/LibreOffice_Calc) is a free and open-source alternative to Excel. I’m learning how to do things in it that I would normally do in Excel. Here are some things I want to remember.
 
