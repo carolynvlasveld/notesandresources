@@ -12,6 +12,15 @@ Ctrl + Shift + Right
 
 Ctrl + Shift + Down
     
+<!-- 
+
+---
+ 
+E.g., "Big spreadsheet" has data for 2553 species (columns: "Species", "variable 1", "variable 2"), and "Small spreadsheet" 2 has data for a subset of species from "Big spreadsheet" with only 343 species (columns: "Species", "variable 3").
+
+
+**Answer:** Copy the data from Spreadsheet 2 into a new tab in Spreadsheet 1. Add two columns to the right of the existing data in Spreadsheet 1. In D2, enter: `=IFERROR(VLOOKUP(A2, Sheet2!A:B, 2, 0), "")` and fill down. In E2, enter: `=IFERROR(VLOOKUP(A2, Sheet2!A:C, 3, 0), "")` and fill down.
+-->
 
 ---
 
