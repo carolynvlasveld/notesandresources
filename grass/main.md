@@ -75,8 +75,6 @@ Some examples of things that could be confused for grasses in Tassie are below.
 
 Show dianella, cutting gradss, seagrass, etc
 
-Q: How do you know if something is a grass or not? I forgot (something to revise) "Name that Flower" book would have good info
-
 <br>
 
 ---
@@ -88,6 +86,7 @@ Q: How do you know if something is a grass or not? I forgot (something to revise
 
 Really awesome videos about grass morphology: [HERE (10 minutes)](https://www.youtube.com/watch?v=4DY6j6I04yE) and [HERE (7 minutes)](https://www.youtube.com/watch?v=xmdsFhtwUYs)
 
+Watch thse videos while fiddling and looking at real grass specimens.
 
 <br>
 
@@ -99,13 +98,12 @@ Really awesome videos about grass morphology: [HERE (10 minutes)](https://www.yo
 # Ways to ID Tassie grasses
 
 The [Key to Tasmanian Vascular Plants](https://www.utas.edu.au/dicotkey/dicotkey/key.htm) and [Flora of Tasmania Online](https://flora.tmag.tas.gov.au/vasculars/current-families/) are great for plant ID in Tassie when you already know what family your specimen is in, but they don't yet have keys for Poaceae.
-https://flora.tmag.tas.gov.au/vasculars/current-families/
 
-My plan is to use these tools and cross-reference between them:
-- The [VicFlora](https://vicflora.rbg.vic.gov.au/) key
-- Use iNaturalist AI to get a rough idea of what the plant might be
-- NRM pdf ... link to it?
-- Genera-level information about grass genera from the [Key to Tasmanian Vascular Plants](https://www.utas.edu.au/dicotkey/dicotkey/Poaceae/fPoaceae.htm)
+So my plan is to use these tools and cross-reference between them and other resources:
+- The [VicFlora](https://vicflora.rbg.vic.gov.au/flora/taxon/e82c1987-a1dc-4faf-864d-5b2177197e67) key
+- Use [iNaturalist](https://www.inaturalist.org/) AI to get a rough idea of what the plant might be
+- Compare specimens with grasses described in [Common grasses of Tasmania](https://nrmsouth.org.au/resource-library/?_search_for_resources=grasses). Direct link to pdf file: [here](https://nrmsouth.org.au/resource-library/?_search_for_resources=grasses)
+- Genera-level information about grass from the [Key to Tasmanian Vascular Plants](https://www.utas.edu.au/dicotkey/dicotkey/Poaceae/fPoaceae.htm)
 
 
 <br>
