@@ -53,10 +53,25 @@ Monocot families that occur in Tasmania that aren't Poaceae (from the 2024 Tassi
 - **Liliales:** Alstroemeriaceae; Campynemataceae; Colchicaceae  
 - **Poales:** Cyperaceae (sedges); Juncaceae (rushes); Restionaceae (restiads); Typhaceae (cattails); Xyridaceae (yellow-eyed grasses)  
 
-Some examples of things that could be confused for grasses in Tassie are below.
+Some examples of things that could be confused for grasses in Tassie are below (all images are from Wikimedia Commons).
 
 
-Show dianella, cutting gradss, seagrass, etc
+![Dianella caerulea](https://upload.wikimedia.org/wikipedia/commons/0/02/Dianella_caerulea%2C_7th_Brigade_Park%2C_Chermside_IMGP6720.jpg) Dianella caerulea (Asparagales: Asphodelaceae). More closeley related to orchids than to grass!
+
+
+![Gahnia grandis](https://upload.wikimedia.org/wikipedia/commons/e/ea/Gahnia_grandis_in_flower.jpg) Gahnia grandis (sawsedge/cutting 'grass'); not a grass but a sedge (Cyperaceae)
+
+
+![Lomandra longifolia](https://upload.wikimedia.org/wikipedia/commons/7/71/Lomandra_longifolia_%285097669801%29.jpg) Lomandra longifolia (Asparagales: Asparagaceae)
+
+
+![Gymnoschoenus sphaerocephalus.](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Button_Grass_plains_%286691642049%29.jpg/2560px-Button_Grass_plains_%286691642049%29.jpg) Gymnoschoenus sphaerocephalus (button 'grass') at Cradle Mountain-Lake St Clair National Park. A sedge (Cyperaceae), not a true grass! Image by [John Tann](https://commons.wikimedia.org/wiki/File:Button_Grass_plains_(6691642049).jpg)
+
+
+![Zostera marina](https://upload.wikimedia.org/wikipedia/commons/6/69/Eelgrass_%28Zostera_marina%29_-_iNaturalist.org%281%29.jpg) Zostera marina ('eelgrass'). A monocot, yes, but not a true grass (Alismatales: Zosteraceae). The pictured species is from the northern hemisphere but Tasmania does have some 'seagrasses' from Zostera and other Alismatales taxa. Image by [John Brew](https://commons.wikimedia.org/wiki/File:Eelgrass_(Zostera_marina)_-_iNaturalist.org(1).jpg)
+
+
+Juncus kraussii, sea rush: https://en.wikipedia.org/wiki/Juncus_kraussii
 
 
 <br><br><br><br>
