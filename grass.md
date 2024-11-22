@@ -1,25 +1,60 @@
-# Grasses (family Poaceae)
+# Grasses (family Poaceae), especially in Tassie
 
 ![Grasses](https://upload.wikimedia.org/wikipedia/commons/b/bd/Real_grass_is_much_better_than_the_indoor_stuff_%287203112330%29.jpg)  
 
+
+<br>
+
 ---
+
+<br>
+
 
 ## Where grasses fit taxonomically
+<br>
 
-| Rank        | Accepted species | Distinguishing features | Contains                                                                 |
+| Rank        | Accepted species | Distinguishing features | Worldwide, contains: |
 |-------------|------------------|-------------------------|--------------------------------------------------------------------------|
-| Angiosperms | [344,397](https://wfoplantlist.org/taxon/wfo-9949999999-2024-06?page=1)          |                         | Amborellales; Nymphaeales; Magnoliids; Chloranthales; **Monocots**; Eudicots |
-| Monocots    | 00000            |                         | Asparagales; Liliales; Dioscoreales; Pandanales; Petrosaviales; Alismatales; Acorales; **Commelinids** |
-| Commelinids | 00000            |                         | Orders: Arecales (includes palms); Commelinales; Zingiberales (includes ginger and bananas); **Poales** |
-| Poales      | 00000            |                         | Chicago                                                                  |
-| Poaceae     | [12,363](https://wfoplantlist.org/taxon/wfo-7000000483-2024-06?page=1)            |                         | Poaceae                                                                  |
+| Angiosperms 🌻| [344,397](https://wfoplantlist.org/taxon/wfo-9949999999-2024-06?page=1)          |                         | Amborellales; Nymphaeales; Magnoliids; Chloranthales; Eudicots; **Monocots** |
+| Monocots 🌷   | [~85000](https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.272.1.5)       |                         | Asparagales; Liliales; Dioscoreales; Pandanales; Petrosaviales; Alismatales; Acorales; **Commelinids** |
+| Commelinids 🌴|             |                         | Arecales (includes palms); Commelinales; Zingiberales (includes ginger and bananas); **Poales** |
+| Poales   🌾   |             |                         | Anarthriaceae; Bromeliaceae (bromeliads); Cyperaceae (sedges); Ecdeiocoleaceae; Eriocaulaceae; Flagellariaceae; Joinvilleaceae; Juncaceae (rushes); Mayacaceae; Rapateaceae; Restionaceae; Thurniaceae; Typhaceae (cattails); Xyridaceae; **Poaceae**                                                                |
+| Poaceae 🌽    | [12,363](https://wfoplantlist.org/taxon/wfo-7000000483-2024-06?page=1)           |                         |[800 accepted genera](https://wfoplantlist.org/taxon/wfo-7000000483-2024-06?page=1)|
 
+
+<br>
 
 ---
 
-## Grassy things that aren't grasses
+<br>
 
-Show pics of different grassy things like typha, buttongrass, dianella, cutting grass
+
+## Cool Poaceae examples worldwide
+
+
+
+<br>
+
+---
+
+<br>
+
+
+## Grasses in Tassie
+
+There are 280 in the wild in Tassie (140 native and 140 introduced) both native and naturalised (according to the 2024 [Census of the Vascular Plants of Tasmania](https://flora.tmag.tas.gov.au/resources/census/). That's about 10% of the accepted extant wild plants in Tassie. Some common and interesting examples are below.
+
+Show the most common and interesting exmaples
+
+<br>
+
+---
+
+<br>
+
+
+## Some grassy things that aren't grasses
+
 
 Monocot families that occur in Tasmania that aren't Poaceae (from the 2024 Tassie plant census both native and naturalised):  
 
@@ -35,32 +70,74 @@ Monocot families that occur in Tasmania that aren't Poaceae (from the 2024 Tassi
 
 **Poales:** Cyperaceae (sedges); Juncaceae (rushes); Restionaceae (restiads); Typhaceae (cattails); Xyridaceae (yellow-eyed grasses)  
 
-Question: how do you tell the difference between grasses and other Poales taxa?
+Some examples of things that could be confused for grasses in Tassie are below.
+
+
+Show dianella, cutting gradss, seagrass, etc
+
+Q: How do you know if something is a grass or not? I forgot (something to revise) "Name that Flower" book would have good info
+
+<br>
 
 ---
 
-# Cool grasses
+<br>
 
-(including ones in Tassie)  
-
-There are 280 species, both native and naturalised [what proportion?] (2024 census -- that's roughly 10% of Tasmania's vascular plants)  
-
----
 
 # Grass morphology
 
+What you see when you see a grass flower stalk is organised by three levels: inflorescence > spikelet > floret
+
+The whole thing is an inflorescence.
+
+- show pic
+
+The inflorencense has many spikelets (kind of like 'sub-inflorencences'). Spikelet have special bits on them called palea and lemma etc?:
+
+- show pic above + this
+
+Each spikelet has many florets on it. A grass floret is equivalent to a true flower on a 'normal' plant but has special stuff called glumes etc.
+
+- show pics above + this + compare to a 'normal' flower as well
+
+
+
+
+Now show vegetative anotmay with ligule and nodes and stuff
+
+both 
+
+
+
+<br>
+
 ---
+
+<br>
+
 
 # Ways to ID Tassie grasses
 
-Vicflora, TMAG, nrm guide, iNat
+The [Key to Tasmanian Vascular Plants](https://www.utas.edu.au/dicotkey/dicotkey/key.htm) and [Flora of Tasmania Online](https://flora.tmag.tas.gov.au/vasculars/current-families/) are great for plant ID in Tassie when you already know what family your specimen is in, but they don't yet have keys for Poaceae.
+https://flora.tmag.tas.gov.au/vasculars/current-families/
+
+My plan is to use these tools and cross-reference between them:
+- The [VicFlora](https://vicflora.rbg.vic.gov.au/) key
+- Use iNaturalist AI to get a rough idea of what the plant might be
+- NRM pdf ... link to it?
+- Genera-level information about grass genera from the [Key to Tasmanian Vascular Plants](https://www.utas.edu.au/dicotkey/dicotkey/Poaceae/fPoaceae.htm)
+
+
+<br>
 
 ---
 
+<br>
+
+
 # List of Tassie grass (poaceae) species in the wild
 
-280 taxa (native and naturalised) filtered form the 2024 [Census of the Vascular Plants of Tasmania](https://flora.tmag.tas.gov.au/resources/census/)
-
+280 taxa (native and naturalised) filtered from the 2024 [Census of the Vascular Plants of Tasmania](https://flora.tmag.tas.gov.au/resources/census/)
 
 - Agrostis australiensis Mez
 - Agrostis bettyae S.W.L.Jacobs
