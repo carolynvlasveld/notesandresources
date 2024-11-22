@@ -3,15 +3,10 @@
 ![Grasses](https://upload.wikimedia.org/wikipedia/commons/b/bd/Real_grass_is_much_better_than_the_indoor_stuff_%287203112330%29.jpg)  
 
 
-<br>
-
----
-
-<br>
+<br><br><br><br>
 
 
-## Where grasses fit taxonomically
-<br>
+# Where grasses fit taxonomically
 
 | Rank        | Accepted species | Distinguishing features | Worldwide, contains: |
 |-------------|------------------|-------------------------|--------------------------------------------------------------------------|
@@ -22,64 +17,50 @@
 | Poaceae 🌽    | [12,363](https://wfoplantlist.org/taxon/wfo-7000000483-2024-06?page=1)           |                         |[800 accepted genera](https://wfoplantlist.org/taxon/wfo-7000000483-2024-06?page=1)|
 
 
-<br>
-
----
-
-<br>
-
-
-## Cool Poaceae examples worldwide
+<br><br><br><br>
 
 
 
-<br>
-
----
-
-<br>
+# Cool Poaceae examples worldwide
 
 
-## Grasses in Tassie
+
+<br><br><br><br>
+
+
+
+# Grasses in Tassie
 
 There are 280 in the wild in Tassie (140 native and 140 introduced) both native and naturalised (according to the 2024 [Census of the Vascular Plants of Tasmania](https://flora.tmag.tas.gov.au/resources/census/). That's about 10% of the accepted extant wild plants in Tassie. Some common and interesting examples are below.
 
 Show the most common and interesting exmaples
 
-<br>
-
----
-
-<br>
 
 
-## Some grassy things ([graminoids](https://en.wikipedia.org/wiki/Graminoid)) that aren't grasses
+<br><br><br><br>
+
+
+
+# Certain [graminoids](https://en.wikipedia.org/wiki/Graminoid) and other grassy things that aren't grasses
 
 
 Monocot families that occur in Tasmania that aren't Poaceae (from the 2024 Tassie plant census both native and naturalised):  
 
-**Asparagales:** Amaryllidaceae; Asparagaceae (asparagus family); Asphodelaceae; Asteliaceae; Blandfordiaceae (Christmas bells); Hypoxidaceae; Iridaceae; Orchidaceae (orchids)  
-
-**Alismatales (mostly aquatic things):** Aponogetonaceae (Cape pond-weeds); Alismataceae (water-plantains); Araceae (arum family); Cymodoceaceae (manatee-grasses); Hydrocharitaceae; Juncaginaceae (arrowgrasses); Posidoniaceae (seagrasses); Potamogetonaceae (pondweeds); Ruppiaceae (widgeonweeds); Zosteraceae (seagrasses)  
-
-**Commelinales:** Commelinaceae (spiderworts); Haemodoraceae (includes kangaroo paws)  
-
-**Dioscoreales:** Burmanniaceae  
-
-**Liliales:** Alstroemeriaceae; Campynemataceae; Colchicaceae  
-
-**Poales:** Cyperaceae (sedges); Juncaceae (rushes); Restionaceae (restiads); Typhaceae (cattails); Xyridaceae (yellow-eyed grasses)  
+- **Asparagales:** Amaryllidaceae; Asparagaceae (asparagus family); Asphodelaceae; Asteliaceae; Blandfordiaceae (Christmas bells); Hypoxidaceae; Iridaceae; Orchidaceae (orchids)  
+- **Alismatales (mostly aquatic things):** Aponogetonaceae (Cape pond-weeds); Alismataceae (water-plantains); Araceae (arum family); Cymodoceaceae (manatee-grasses); Hydrocharitaceae; Juncaginaceae (arrowgrasses); Posidoniaceae (seagrasses); Potamogetonaceae (pondweeds); Ruppiaceae (widgeonweeds); Zosteraceae (seagrasses)  
+- **Commelinales:** Commelinaceae (spiderworts); Haemodoraceae (includes kangaroo paws)  
+- **Dioscoreales:** Burmanniaceae  
+- **Liliales:** Alstroemeriaceae; Campynemataceae; Colchicaceae  
+- **Poales:** Cyperaceae (sedges); Juncaceae (rushes); Restionaceae (restiads); Typhaceae (cattails); Xyridaceae (yellow-eyed grasses)  
 
 Some examples of things that could be confused for grasses in Tassie are below.
 
 
 Show dianella, cutting gradss, seagrass, etc
 
-<br>
 
----
+<br><br><br><br>
 
-<br>
 
 
 # Grass morphology
@@ -88,11 +69,10 @@ Really awesome videos about grass morphology: [HERE (10 minutes)](https://www.yo
 
 Watch thse videos while fiddling and looking at real grass specimens.
 
-<br>
 
----
 
-<br>
+<br><br><br><br>
+
 
 
 # Ways to ID Tassie grasses
@@ -106,14 +86,12 @@ So my plan is to use these tools and cross-reference between them and other reso
 - Genera-level information about grass from the [Key to Tasmanian Vascular Plants](https://www.utas.edu.au/dicotkey/dicotkey/Poaceae/fPoaceae.htm)
 
 
-<br>
 
----
-
-<br>
+<br><br><br><br>
 
 
-# List of Tassie grass (poaceae) species in the wild
+
+# List of Tassie Poaceae species
 
 280 taxa (native and naturalised) filtered from the 2024 [Census of the Vascular Plants of Tasmania](https://flora.tmag.tas.gov.au/resources/census/)
 
@@ -397,6 +375,9 @@ So my plan is to use these tools and cross-reference between them and other reso
 - Vulpia myuros (L.) C.C.Gmel. f. myuros
 - Vulpia myuros f. megalura (Nutt.) Stace & R.Cotton
 - Zoysia macrantha subsp. walshii Night.
+
+
+<br>
 
 ---
 
