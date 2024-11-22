@@ -86,27 +86,7 @@ Q: How do you know if something is a grass or not? I forgot (something to revise
 
 # Grass morphology
 
-What you see when you see a grass flower stalk is organised by three levels: inflorescence > spikelet > floret
-
-The whole thing is an inflorescence.
-
-- show pic
-
-The inflorencense has many spikelets (kind of like 'sub-inflorencences'). Spikelet have special bits on them called palea and lemma etc?:
-
-- show pic above + this
-
-Each spikelet has many florets on it. A grass floret is equivalent to a true flower on a 'normal' plant but has special stuff called glumes etc.
-
-- show pics above + this + compare to a 'normal' flower as well
-
-also awns...
-
-
-
-Now show vegetative anotmay with ligule and nodes and stuff
-both 
-
+Really awesome videos about grass morphology: [HERE (10 minutes)](https://www.youtube.com/watch?v=4DY6j6I04yE) and [HERE (7 minutes)](https://www.youtube.com/watch?v=xmdsFhtwUYs)
 
 
 <br>
