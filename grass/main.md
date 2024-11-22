@@ -100,11 +100,11 @@ Each spikelet has many florets on it. A grass floret is equivalent to a true flo
 
 - show pics above + this + compare to a 'normal' flower as well
 
+also awns...
 
 
 
 Now show vegetative anotmay with ligule and nodes and stuff
-
 both 
 
 
