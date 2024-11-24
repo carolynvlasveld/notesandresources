@@ -21,19 +21,9 @@
 
 
 
-# Cool Poaceae examples worldwide
-
-
-
-<br><br><br><br>
-
-
-
 # Grasses in Tassie
 
-There are 280 in the wild in Tassie (140 native and 140 introduced) both native and naturalised (according to the 2024 [Census of the Vascular Plants of Tasmania](https://flora.tmag.tas.gov.au/resources/census/). That's about 10% of the accepted extant wild plants in Tassie. Some common and interesting examples are below.
-
-Show the most common and interesting exmaples
+There are 280 in the wild in Tassie (140 native and 140 introduced) both native and naturalised (according to the 2024 [Census of the Vascular Plants of Tasmania](https://flora.tmag.tas.gov.au/resources/census/). That's about 10% of the accepted extant wild plants in Tassie.
 
 
 
@@ -80,9 +70,7 @@ Juncus kraussii, sea rush: https://en.wikipedia.org/wiki/Juncus_kraussii
 
 # Grass morphology
 
-Really awesome videos about grass morphology: [HERE (10 minutes)](https://www.youtube.com/watch?v=4DY6j6I04yE) and [HERE (7 minutes)](https://www.youtube.com/watch?v=xmdsFhtwUYs)
-
-Watch thse videos while fiddling and looking at real grass specimens.
+Really awesome videos about grass morphology: [here (10 minutes)](https://www.youtube.com/watch?v=4DY6j6I04yE) and [here (7 minutes)](https://www.youtube.com/watch?v=xmdsFhtwUYs)
 
 
 
