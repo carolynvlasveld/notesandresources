@@ -7,7 +7,7 @@ Here’s a list of ways you can progress your skills as a botanist and/or ecolog
 
 - An article I wrote on plant ID: [How to identify an Australian native plant](https://weareexplorers.co/how-to-identify-a-plant/)
 - For Melbournians: Eat That Weed runs workshops on how to find edible introduced plants in urban areas
-- [Merlin Bird ID](https://merlin.allaboutbirds.org/) is a great app for learning local birds
+- [Merlin Bird ID](https://merlin.allaboutbirds.org/) is a great app for learning local birds. Apparently BirdNET is also good
 - [eBird](https://ebird.org/home) is great for practicing bird ID via online quizzes
 - Use [iNaturalist](https://www.inaturalist.org/) to connect with other naturalists and make species ID more fun
 - Learn about [ethical orchid photography](https://landscaperecovery.com.au/blog/roger-8mkyj-htzsx)
