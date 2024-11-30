@@ -4,9 +4,13 @@
 
 Quick video explaining the concept: [Why all maps are wrong](https://www.youtube.com/watch?v=kIID5FDi2JQ)
 
-Cool map of the Gall–Peters projection, image by (Daniel R. Strebe, Wikimedia Commons), showing countries with more accurate relative areas than the commonly used Mercator projection but with more distorted shapes (note how big the continents are in the southern hemisphere relative to the northern):
+Cool map of the Gall–Peters projection, image by (Daniel R. Strebe, Wikimedia Commons), showing countries with more accurate relative areas than the commonly used Mercator projection (used by Google maps because it preserves shape and makes it easier to navigate at small scales) but with more distorted shapes (note how big the continents are in the southern hemisphere relative to the northern):
 
 ![Gall–Peters projection](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Gall%E2%80%93Peters_projection_SW.jpg/1920px-Gall%E2%80%93Peters_projection_SW.jpg)
+
+There are heaps of other projections. Also the Winkel tripel projection that is like a balance between Mercator and Gall-Peters
+
+Also cool: https://truesizeofcountries.com/
 
 ---
 
