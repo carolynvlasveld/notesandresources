@@ -1,4 +1,12 @@
-## GIS
+# GIS
+
+### Learning about projections
+
+Quick video explaining the concept: [Why all maps are wrong](https://www.youtube.com/watch?v=kIID5FDi2JQ)
+
+Cool map of the Gall–Peters projection, image by (Daniel R. Strebe, Wikimedia Commons), showing countries with more accurate relative areas than the commonly used Mercator projection but with more distorted shapes (note how big the continents are in the southern hemisphere relative to the northern):
+
+![Gall–Peters projection](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Gall%E2%80%93Peters_projection_SW.jpg/1920px-Gall%E2%80%93Peters_projection_SW.jpg)
 
 ---
 
