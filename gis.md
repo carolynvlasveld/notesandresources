@@ -14,6 +14,12 @@ Also cool: https://truesizeofcountries.com/
 
 ---
 
+Interesting and worth checking out: https://mapartists.org/
+
+
+---
+
+
 For QGIS, check out: https://www.youtube.com/@MattForrest
 
 
